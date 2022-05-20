@@ -28,7 +28,18 @@ const App = () => {
     Step 4: Render those which the email was successfully sent
   
   */
-
+  /*Asnwers*/
+  //Step 1
+  console.log(fetchUserIds)
+  
+  //Step 2
+  
+  console.log("Online users:", checkStatus.length[userId] )
+  
+  //Step 3
+  
+  console.log("Send email to:", sendEmail.userId)
+  
   return (
     <div className="App">
       <div className="App-header">
